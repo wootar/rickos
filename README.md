@@ -1,2 +1,2 @@
 # rickos
-just another distro i swear
+never gonna give you up
